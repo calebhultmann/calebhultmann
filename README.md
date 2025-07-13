@@ -22,7 +22,7 @@ The project is still in development, but check out the current version [here](ht
 ## 👯 I’m looking to collaborate on
 - Systems projects
 - Low-level development
-- C++ based
+- Projects with a foundation in C++
 
 ## 📫 How to reach me:
 Check out my [LinkedIn](https://linkedin.com/in/caleb-hultmann/)
