@@ -31,4 +31,7 @@ Check out my [LinkedIn](https://linkedin.com/in/caleb-hultmann/)
 <!--
 Future github stats card:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebhultmann)](https://github.com/anuraghazra/github-readme-stats)
+
+Markdown badges
+https://github.com/Ileriayo/markdown-badges
 -->
