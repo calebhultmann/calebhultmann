@@ -6,18 +6,17 @@ Check out my [personal Instagram](https://instagram.com/calebhultmann), or my ne
 I'm a computer science student studying at Harvard University with a deep interest in low-level systems, emulation, and operating systems development 🕹️. I spend most of my time writing in C++ and building personal projects. When I'm not in Visual Studio or updating GitHub, I can be found riding my motorcyle 🏍️, playing videogames 🎮, longboarding 🛹, improving my photography skills 📸, or training for the Cambridge half marathon 🏃‍♂️‍➡️.
 
 ## 🛠️ I recently built
-A cycle-accurate emulator of the MOS6502 microprocessor in C++.
+A cycle-accurate emulator of the MOS6502 microprocessor in C++, and a rudimentary assemble to write code for it.
 The project is still in development, but check out the current version [here](https://github.com/calebhultmann/MOS6502-Emulator)!
 
 ## 🔭 I’m currently working on
-- Improving my 6502 emulator
-- Writing an assembler and disassembler for 6502 Assembly
+- A full C-compiler in OCaml as a university project
 - Putting together a portfolio website
+- Designing a hardware-accurate GameBoy emulator
 
 ## 🌱 I’m currently learning how to
 - Emulate retro game consoles (NES, GameBoy)
 - Implement visual I/O in C++
-
 
 ## 👯 I’m looking to collaborate on
 - Systems projects
