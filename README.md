@@ -3,10 +3,10 @@
 Check out my [personal Instagram](https://instagram.com/calebhultmann), or my new [photography account](https://instagram.com/clebbography)!
 
 ## About me
-I'm a computer science student studying at Harvard University with a deep interest in low-level systems, emulation, and operating systems development 🕹️. I spend most of my time writing in C++ and building personal projects. When I'm not in Visual Studio or updating GitHub, I can be found riding my motorcyle 🏍️, playing videogames 🎮, longboarding 🛹, improving my photography skills 📸, or training for the Cambridge half marathon 🏃‍♂️‍➡️.
+I'm a computer science student studying at Harvard University with a deep interest in low-level systems, emulation, and operating systems development 🕹️. I spend most of my time writing in C++ and building personal projects. When I'm not in Visual Studio or updating GitHub, I can be found riding my motorcyle 🏍️, playing videogames 🎮, longboarding 🛹, improving my photography skills 📸, or training for my next half marathon 🏃‍♂️‍➡️.
 
 ## 🛠️ I recently built
-A cycle-accurate emulator of the MOS6502 microprocessor in C++, and a rudimentary assemble to write code for it.
+A cycle-accurate emulator of the MOS6502 microprocessor in C++, and a rudimentary assembler to write code for it.
 The project is still in development, but check out the current version [here](https://github.com/calebhultmann/MOS6502-Emulator)!
 
 ## 🔭 I’m currently working on
