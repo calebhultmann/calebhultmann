@@ -10,8 +10,8 @@ I specialize in C++ and OCaml for development of low level systems. In uni, I'm 
 My recent projects have included:
 - A cycle-accurate emulator of the MOS6502 microprocessor in C++, which you can find [here](https://github.com/calebhultmann/MOS6502-Emulator)
 - A rudimentary assembler for the 6502 which can also be found [here](https://github.com/calebhultmann/6502-Assembler)
-- Implementing core Linux kernel features in C++. This repository is private due to restrictions on code publication at my university. If you are interested, reach out to me!
-- Building an Oat (simple-C) language compiler in OCaml to produce optimized x86 assembly through an LLVM IR. This repository is also private for the reasons above
+- Implementing core Linux kernel features in C++. This repository is private due to restrictions on code publication at my university. Check out the abstract [here](https://github.com/calebhultmann/Chickadee-OS-Abstract)!
+- Building an Oat (simple-C) language compiler in OCaml to produce optimized x86 assembly through an LLVM IR. This repository is also private for the reasons above, find the abstract [here](https://github.com/calebhultmann/C-Compiler-Abstract)!
 
 ## Where can you find me? 📫
 Feel free to check out my personal [Instagram](https://instagram.com/calebhultmann) and adjoining [photography account](https://instagram.com/clebbography) (which is still new), reach out to me at my [LinkedIn](https://linkedin.com/in/caleb-hultmann/), or email me at [caleb.hultmann@gmail.com](mailto:caleb.hultmann@gmail.com?subject=[GitHub]%20Reaching%20Out!)
